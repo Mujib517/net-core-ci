@@ -6,7 +6,7 @@ namespace Net_Core_CI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello CI");
         }
     }
 }
