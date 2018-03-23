@@ -1,6 +1,6 @@
 # .Net Core CI using Travis
 
-https://travis-ci.org/Mujib517/net-core-ci.svg?branch=master
+<img src="https://travis-ci.org/Mujib517/net-core-ci.svg?branch=master"/>
 
 
 ## To run 
