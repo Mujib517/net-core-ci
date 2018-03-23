@@ -5,3 +5,6 @@ script:
  - dotnet restore
  - dotnet build
  - dotnet publish
+addons:
+  artifacts: true
+  working_dir: out
