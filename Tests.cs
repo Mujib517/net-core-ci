@@ -11,7 +11,7 @@ namespace Net.Core.CI
         [TestMethod]
         public void FirstTest()
         {
-            Assert.AreEqual(true, true);
+            Assert.AreEqual(true, false);
         }
     }
 }
