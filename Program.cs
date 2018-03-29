@@ -2,9 +2,9 @@
 
 namespace Net_Core_CI
 {
-    class Program
+    public class Program
     {
-        public static void Main(string[] args)
+        public static void Main2(string[] args)
         {
             Console.WriteLine("Hello CI");
         }

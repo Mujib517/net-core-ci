@@ -4,7 +4,4 @@ dotnet: 2.0.2
 script:
  - dotnet restore
  - dotnet build
- - dotnet publish
-addons:
-  artifacts: true
-  working_dir: out
+ - dotnet test
